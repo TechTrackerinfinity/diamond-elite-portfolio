@@ -9,7 +9,7 @@ const Testimonials = () => {
       name: 'Elizabeth Warren',
       role: 'Jewelry Collector',
       image: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb',
-      content: 'The exceptional quality of Diamond Elite's gems is unmatched. Each piece I've acquired has exceeded my expectations in brilliance and craftsmanship.',
+      content: 'The exceptional quality of Diamond Elite\'s gems is unmatched. Each piece I\'ve acquired has exceeded my expectations in brilliance and craftsmanship.',
       rating: 5,
     },
     {
